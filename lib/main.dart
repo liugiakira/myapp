@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'myapp.dart';
+import 'planner/plannerapp.dart';
+import 'quiz/quizapp.dart';
 
 main() {
-  runApp(MyApp());
+  //runApp(QuizApp());
+  runApp(PlannerApp());
 }
