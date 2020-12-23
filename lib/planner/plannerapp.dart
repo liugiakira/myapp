@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
-import 'core/transaction.dart';
+import 'models/transaction.dart';
 
 class PlannerApp extends StatelessWidget {
   @override
